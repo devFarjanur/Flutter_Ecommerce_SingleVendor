@@ -16,7 +16,7 @@ class HomeAppBar extends StatelessWidget {
           ),
           Spacer(),
           Text(
-            "DP Shop",
+            "Organic Store",
             style: TextStyle(
               fontSize: 23,
               fontWeight: FontWeight.bold,
